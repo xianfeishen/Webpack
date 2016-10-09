@@ -1,0 +1,1 @@
+run webpack and open index.html directly
